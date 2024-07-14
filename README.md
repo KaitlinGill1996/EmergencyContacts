@@ -3,7 +3,7 @@ This project is an emergency contact list application built using Oracle APEX. I
 
 **Features**:
 
-**Add and Edit Contacts:** Users can add new contacts and edit existing ones.
-**Manage Contact Numbers:** Each contact can have multiple associated contact numbers.
-**Interactive Reports and Grids:** The application utilizes interactive reports and grids for easy data management and visualization.
-**User Authentication:** Access control to ensure that only authorized users can view and manage the contact list.
+**Add and Edit Contacts:** Users can add new contacts and edit existing ones. <br/>
+**Manage Contact Numbers:** Each contact can have multiple associated contact numbers. <br/>
+**Interactive Reports and Grids:** The application utilizes interactive reports and grids for easy data management and visualization. <br/>
+**User Authentication:** Access control to ensure that only authorized users can view and manage the contact list. <br/>
